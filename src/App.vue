@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import navhead from './__common/views/navhead.vue'
+import navhead from './__common/navhead.vue'
 
 // 自定义标签 不能为  XxxYyy  可以为 Xxxyyy 或者 xxxyyy ,选取规范为 Xxxyyy
 // header 和 head 都是关键词 不能用

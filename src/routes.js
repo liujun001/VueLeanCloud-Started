@@ -9,7 +9,7 @@
 
 import Addcommunity from './__systemInit/views/Addcommunity'
 import Testview from './__systemInit/views/Testview'
-import Notfound from './__common/views/404.vue'
+import Notfound from './__common/404.vue'
 
 export default function(router){
     router.map({
